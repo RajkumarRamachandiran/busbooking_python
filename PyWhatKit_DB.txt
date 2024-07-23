@@ -1,0 +1,10 @@
+Date: 19/7/2024
+Time: 18:59
+Phone Number: +91 6379393146
+Message: dear:{name} thank you for register vijay cinemas and your otp is {otp}.
+--------------------
+Date: 19/7/2024
+Time: 19:12
+Phone Number: +91 7708002908
+Message: dear:{name} thank you for register vijay cinemas and your otp is {otp}.
+--------------------
