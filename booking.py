@@ -17,8 +17,6 @@ elif(option==2):
     name=input("name:")
     phone_no=input("phone_no:")
     email=input("email:")
-else:
-    print("first register you profile")
 #     otp=random.randint(1000,9999)
 #     message='dear:{name} thank you for register vijay cinemas and your otp is {otp}.'
     
