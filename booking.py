@@ -5,23 +5,20 @@ print("-------------------------------------------------------------------------
 print("  "                        "welcom to vijay cinemas  "                                   " ")
 print("-------------------------------------------------------------------------------------------")
 time.sleep(1)
-print("1)email")
-print("2)login")
-print("3)register")
+print("1)login")
+print("2)register")
 time.sleep(1)
 option=int(input("enter the login option:"))
 if(option==1 ):
-    email=input("email:")
+    username=input("email:")
     password=input("password:")
     print("login sucessfully")
 elif(option==2):
-    username=input("username:")
-    password=input("password:")
-    print("login done!!..")
-elif(option==3):
     name=input("name:")
     phone_no=input("phone_no:")
     email=input("email:")
+else:
+    print("first register you profile")
 #     otp=random.randint(1000,9999)
 #     message='dear:{name} thank you for register vijay cinemas and your otp is {otp}.'
     
