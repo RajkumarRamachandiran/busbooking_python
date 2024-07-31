@@ -68,7 +68,15 @@ if movies_choice in movies:
 else:
      print("Invalid movie selection. Please restart and select a valid movie.")
 
-
+print("enter the 1 to ticket ")
+ticket=int(input("enter the option"))
+if ticket == 1:
+    print("--------------------------------------------------------------------")
+    print("",                      "vijay cinemas",                           "")
+    print("--------------------------------------------------------------------")
+    print(username)
+    print(movies[movies_choice])
+    
 
 
 
